@@ -1,0 +1,5 @@
+{
+  "name": "FundMyChai 1",
+  "description": "A Buy Me a Coffee clone tailored for UPI payments. Creators can set up a page, generate AI-powered bios, and receive direct UPI payments via QR codes.",
+  "requestFramePermissions": []
+}
